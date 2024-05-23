@@ -10,7 +10,7 @@ description: /ia command menu
 Il contient aussi la catégorie **"tout"** qui permet de retrouver tout les items ajouté par ItemAdder.
 
 {% hint style="info" %}
-Default ItemsAdder pack categories are inside `categories.yml` files on each `namespace` folder.\
+Les catégories du pack ItemsAdder par défaut se trouvent à l'intérieur de `categories.yml` pour chaque dossier `namespace`.\
 For example: `contents/iasurvival/configs/categories.yml`
 {% endhint %}
 
