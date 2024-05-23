@@ -2,12 +2,12 @@
 description: /ia command menu
 ---
 
-# 📃 Recipes menu
+# 📃 Menu des recettes
 
-## Menu settings and "All" category
+## Menu réglages et categorie "Tout" 
 
-`ia_gui.yml` contains settings about the `/ia` command GUI.\
-It also contains the **"all"** category which shows every ItemsAdder item.
+`ia_gui.yml` contiens les réglages a propos de la commande `/ia` .\
+Il contient aussi la catégorie **"tout"** qui permet de retrouver tout les items ajouté par ItemAdder.
 
 {% hint style="info" %}
 Default ItemsAdder pack categories are inside `categories.yml` files on each `namespace` folder.\
